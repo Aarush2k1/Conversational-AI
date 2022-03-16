@@ -5,7 +5,7 @@
 
 ## Data Preprocessing
 - It cleans the unnecessary Data so that the Machine will Learn batter and also performed well.
-- Used nltk copus to remove stopwords, perform tokenization and lemmatization.
+- Used nltk copus to remove stopwords, perform tokenization and stemming.
 
 ## Vectorization
 Text is converted into Numeric Form so that the ML model can understand as it is a mathematical model
