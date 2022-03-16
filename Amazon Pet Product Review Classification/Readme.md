@@ -1,7 +1,7 @@
 # ANALYSIS OF PRODUCT REVIEWS USING SUPERVISED LEARNING
 
 ## Data Collection
-![Kaggle challenge](https://www.kaggle.com/c/amazon-pet-product-reviews-classification/data)
+[Kaggle challenge](https://www.kaggle.com/c/amazon-pet-product-reviews-classification/data)
 
 ## Data Preprocessing
 - It cleans the unnecessary Data so that the Machine will Learn batter and also performed well.
